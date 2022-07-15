@@ -1,0 +1,42 @@
+body{
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+h1,h2{
+  color: white;
+
+}
+.heading-top
+{
+  text-align: center;
+}
+.heading-top-next
+{
+  text-align: center;
+}
+.app{
+  height: 600px;
+  width: 100vh;
+}
+
+.map {
+  height: 100%;
+  width: 100%;
+}
+.marker{
+  background-image: url("C:/Users/Aditi Khanna/Documents/WEB DEVELOPMENT/distance-matrix-routing/images/delivery-boy (3).png");
+  background-size: cover;
+  width: 33px;
+  height: 33px;
+  /* background-color: rgb(255, 255, 255); */
+  /* border-radius: 0.5px;
+  border: solid 3px rgb(0, 0, 0); */
+}
+
+.marker-delivery{
+  width: 22px;
+  height: 22px;
+  background-color: red;
+}
